@@ -9,14 +9,14 @@ public class DmvSimulator {
         System.out.println("Press enter to continue...");
         sc.nextLine();
 
-        int userNum = (int)(Math.random()*100);
+        int userNum = (int)(Math.random()*200);
         System.out.println("Your number is: " + userNum);
         System.out.println("Please wait roughly half your entire lifetime for your number to be called");
         System.out.println("Press enter to continue...");
         sc.nextLine();
 
-        for(int i=userNum+1; i<userNum+101; i++){
-            System.out.println("Now servicing number: " + i%100);
+        for(int i=userNum+1; i<userNum+201; i++){
+            System.out.println("Now servicing number: " + i%200);
             /*
             try {
                 TimeUnit.SECONDS.sleep(1);
