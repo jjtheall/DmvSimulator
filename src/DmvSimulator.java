@@ -31,8 +31,7 @@ public class DmvSimulator {
             System.out.println("Your paperwork looks good. You are all set. Have a great day!");
         }
         else{
-            System.out.println("Bro you're actually so dumb these aren't the right forms lol gtfoh");
+            System.out.println("Bro you're actually so dumb these aren't the right forms MWAHAHAHHAHA");
         }
-        
     }
 }
