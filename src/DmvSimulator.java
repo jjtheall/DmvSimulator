@@ -26,6 +26,6 @@ public class DmvSimulator {
             */
         }
 
-        System.out.println("I'm sorry but it looks like you do not have all required paperwork");
+        System.out.println("Bro you're actually so dumb these aren't the right forms lol gtfoh");
     }
 }
