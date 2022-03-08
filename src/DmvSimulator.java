@@ -26,6 +26,6 @@ public class DmvSimulator {
             */
         }
 
-        System.out.println("Bro you're actually so dumb these aren't the right forms lol gtfoh");
+        System.out.println("Bro you're actually so dumb these aren't the right forms MWAHAHAHHAHA");
     }
 }
