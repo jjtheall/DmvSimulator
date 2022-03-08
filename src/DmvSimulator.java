@@ -26,6 +26,13 @@ public class DmvSimulator {
             */
         }
 
-        System.out.println("Bro you're actually so dumb these aren't the right forms lol gtfoh");
+        int miracle = (int)(Math.random()*100);
+        if(miracle == 50){
+            System.out.println("Your paperwork looks good. You are all set. Have a great day!");
+        }
+        else{
+            System.out.println("Bro you're actually so dumb these aren't the right forms lol gtfoh");
+        }
+        
     }
 }
